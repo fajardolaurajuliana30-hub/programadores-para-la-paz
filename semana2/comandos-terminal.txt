@@ -1,0 +1,22 @@
+Comandos utilizados en la actividad Semana 2
+
+pwd
+Muestra la ubicación actual dentro del sistema de carpetas.
+
+ls
+Permite visualizar los archivos y carpetas del directorio actual.
+
+mkdir semana2
+Crea una nueva carpeta llamada semana2.
+
+git status
+Muestra el estado de los archivos del repositorio.
+
+git add .
+Agrega los cambios realizados para prepararlos para el commit.
+
+git commit -m "Actividad semana 2"
+Guarda los cambios en el historial del repositorio.
+
+git push
+Publica los cambios en GitHub
