@@ -1,0 +1,8 @@
+Ruta /:
+Muestra el mensaje "Servidor activo" confirmando que el servidor funciona.
+
+Ruta /saludo:
+Responde "Hola comunidad" como mensaje fijo.
+
+Ruta /mensaje/juan:
+Muestra un saludo dinámico usando el nombre que se envía en la URL.
