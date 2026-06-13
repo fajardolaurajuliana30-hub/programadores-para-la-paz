@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes el sistema muestra todos los reportes almacenados en memoria. Después de registrar un reporte mediante la ruta POST, este queda guardado en el arreglo reportes y puede visualizarse al realizar una consulta GET. Cada reporte tiene un identificador, un tipo y una descripción.
