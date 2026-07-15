@@ -1,0 +1,9 @@
+1. Como ciudadano quiero registrar una petición para dejar evidencia del caso y hacer seguimiento.
+
+2. Como coordinador quiero recibir una notificación en Telegram cuando se registre una nueva petición.
+
+3. Como revisor quiero consultar las solicitudes pendientes para atenderlas oportunamente.
+
+4. Como administrador quiero actualizar el estado de una petición para informar el avance.
+
+5. Como ciudadano quiero consultar el estado de mi solicitud para conocer su progreso.

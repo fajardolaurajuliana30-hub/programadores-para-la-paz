@@ -1,0 +1,18 @@
+Evento:
+Se registra una nueva petición en la plataforma.
+
+Acción:
+n8n envía automáticamente una notificación mediante Telegram.
+
+Mensaje:
+"Nuevo reporte recibido. Revisar la plataforma para continuar el proceso."
+
+Información que NO debe enviarse:
+
+- Nombres completos
+- Número de documento
+- Dirección
+- Teléfono
+- Correos electrónicos
+- Contraseñas
+- Información sensible

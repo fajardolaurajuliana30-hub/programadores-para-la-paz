@@ -1,0 +1,14 @@
+Iteración Semana 10
+
+Las dos tareas que realizaría primero son:
+
+1. Registrar una petición.
+2. Enviar una notificación por Telegram.
+
+Son las más importantes porque permiten iniciar el proceso y avisar al equipo para que pueda realizar el seguimiento oportunamente.
+
+Para mí una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada y validada.
+- Quedó registrada en Git con su respectivo commit.
